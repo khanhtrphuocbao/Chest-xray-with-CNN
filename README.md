@@ -1,3 +1,4 @@
+# Applying preprocessing methods and CNN models to enhance the performance of predicting diseases on chest X-ray images.
 # Abstract:
 In the Context of Global Healthcare, chest X-ray imaging has become a vital tool for diagnosing and assessing lung conditions. In this study, we focus on improving the prediction accuracy of lung diseases from chest X-rays using Convolutional Neural Networks (CNNs) and applying preprocessing algorithms to enhance image quality. We utilized the Chest-Xray14 (2017) and CheXpert datasets, which contain thousands of chest X-ray images covering diverse lung pathologies.
 To enhance image quality, we implemented preprocessing techniques, including:
